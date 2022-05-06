@@ -16,6 +16,18 @@ The applications of natural language algorithms are commonly called tasks. Here 
 **Generate New Text**: Given some starting text, write more text that seems to follow from it.
 **Logical Flow**: If a sentence first asserts a premise and the following sentence asserts a conclusion based on that premise, determine whether the conclusion logically follows from the premise.
 
+The main goal of natural language processing is to derive information from natural language.
 
+Process of natural language processing
 
+* Downloading a text dataset
+* Visualizing text data
+* Converting text into numbers using tokenization
+* Turning our tokenized text into an embedding
+* Modelling a text dataset
+  * Starting with a baseline (TF-IDF)
+  * Building several deep learning text models
+    * Dense, LSTM, GRU, Conv1D,Dropout, Transfer learning
+  * Fit the model
+  * 
 Detection sarcasm comments from Twitter datasets collected using hashtag that data is Sarcastic or Not Sarcastic.
