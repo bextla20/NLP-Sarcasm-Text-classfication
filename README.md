@@ -1,2 +1,21 @@
 # NLP-Sarcasm-Text-classfication
+
+The general field that studies natural language is called natural language understanding. Most of today’s algorithms are unconcerned with any kind of actual understanding of the language they process. Instead, they extract statistics from the data and use those statistics as the basis for tasks like answering questions or
+generating text. These techniques are generally called natural language processing.
+
+## Common Natural Language Processing Tasks
+
+Many methods help the NLP system to understand text and symbols. They are text classification, vector semantic, word embedding, probabilistic language model, sequence labeling, and speech reorganization.
+
+The applications of natural language algorithms are commonly called tasks. Here are some popular tasks:
+
+**Sentiment Analysis**: Given opinionated text like a movie review, determine whether the overall sense is positive or negative.
+**Translation**: Turn text into another language.
+**Answer Questions**: Answer questions about the text, like who is the hero, or what actions occurred.
+**Summarize or Paraphrase**: Provide a short overview of the text, emphasizing the main points.
+**Generate New Text**: Given some starting text, write more text that seems to follow from it.
+**Logical Flow**: If a sentence first asserts a premise and the following sentence asserts a conclusion based on that premise, determine whether the conclusion logically follows from the premise.
+
+
+
 Detection sarcasm comments from Twitter datasets collected using hashtag that data is Sarcastic or Not Sarcastic.
