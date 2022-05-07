@@ -9,7 +9,7 @@ Many methods help the NLP system to understand text and symbols. They are text c
 
 The applications of natural language algorithms are commonly called tasks. Here are some popular tasks:
 
- *Sentiment Analysis: Given opinionated text like a movie review, determine whether the overall sense is positive or negative.
+ * Sentiment Analysis: Given opinionated text like a movie review, determine whether the overall sense is positive or negative.
  **Translation**: Turn text into another language.
  **Answer Questions**: Answer questions about the text, like who is the hero, or what actions occurred.
  **Summarize or Paraphrase**: Provide a short overview of the text, emphasizing the main points.
