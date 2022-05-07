@@ -29,5 +29,5 @@ Process of natural language processing
   * Building several deep learning text models
     * Dense, LSTM, GRU, Conv1D,Dropout, Transfer learning
   * Fit the model
-  * 
-Detection sarcasm comments from Twitter datasets collected using hashtag that data is Sarcastic or Not Sarcastic.
+
+In this project, after tokenize - Embedding process, l have used Bidirectional with LSTM and SpatialDropout1D. Using SpatialDropout1D after LSTM improve accuracy and decrease loss.
