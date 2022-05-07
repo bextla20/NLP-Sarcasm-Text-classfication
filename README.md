@@ -9,12 +9,12 @@ Many methods help the NLP system to understand text and symbols. They are text c
 
 The applications of natural language algorithms are commonly called tasks. Here are some popular tasks:
 
- * Sentiment Analysis: Given opinionated text like a movie review, determine whether the overall sense is positive or negative.
- **Translation**: Turn text into another language.
- **Answer Questions**: Answer questions about the text, like who is the hero, or what actions occurred.
- **Summarize or Paraphrase**: Provide a short overview of the text, emphasizing the main points.
- **Generate New Text**: Given some starting text, write more text that seems to follow from it.
- **Logical Flow**: If a sentence first asserts a premise and the following sentence asserts a conclusion based on that premise, determine whether the conclusion logically follows from the premise.
+ * **Sentiment Analysis**: Given opinionated text like a movie review, determine whether the overall sense is positive or negative.
+ * **Translation**: Turn text into another language.
+ * **Answer Questions**: Answer questions about the text, like who is the hero, or what actions occurred.
+ * **Summarize or Paraphrase**: Provide a short overview of the text, emphasizing the main points.
+ * **Generate New Text**: Given some starting text, write more text that seems to follow from it.
+ * **Logical Flow**: If a sentence first asserts a premise and the following sentence asserts a conclusion based on that premise, determine whether the conclusion logically follows from the premise.
 
 The main goal of natural language processing is to derive information from natural language.
 
