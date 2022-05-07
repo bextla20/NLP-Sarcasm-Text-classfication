@@ -33,3 +33,6 @@ Process of natural language processing
   * Fit the model
 
 In this project, after tokenize - Embedding process, l have used Bidirectional with LSTM and SpatialDropout1D. Using SpatialDropout1D after LSTM improve accuracy and decrease loss.
+
+![summary](https://user-images.githubusercontent.com/62169942/167265537-cf1d46fe-da4c-406e-a716-fab97c79aecb.png)
+
