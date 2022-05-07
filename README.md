@@ -18,6 +18,8 @@ The applications of natural language algorithms are commonly called tasks. Here 
 
 The main goal of natural language processing is to derive information from natural language.
 
+![NLP](https://user-images.githubusercontent.com/62169942/167230648-eb9c8a50-8c99-4fe8-882c-44ed093bd82b.png)
+
 Process of natural language processing
 
 * Downloading a text dataset
